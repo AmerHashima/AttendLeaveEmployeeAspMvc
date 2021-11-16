@@ -1,0 +1,89 @@
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.deps.json
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.runtimeconfig.json
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.runtimeconfig.dev.json
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.dll
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.pdb
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.Views.dll
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.Views.pdb
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.csprojAssemblyReference.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.AssemblyInfoInputs.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.AssemblyInfo.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.csproj.CoreCompileInputs.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorAssemblyInfo.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorAssemblyInfo.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.TagHelpers.input.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.TagHelpers.output.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorCoreGenerate.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorTargetAssemblyInfo.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorTargetAssemblyInfo.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.Views.pdb
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.dll
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.pdb
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.genruntimeconfig.cache
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.csproj.CopyComplete
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Create.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Delete.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Details.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Edit.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Index.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.cshtml.g.cs
+D:\MyWork\ApiApplication\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\appsettings.json
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.deps.json
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.runtimeconfig.json
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.runtimeconfig.dev.json
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.dll
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.pdb
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.Views.dll
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\bin\Debug\netcoreapp2.1\SystemMVC.Views.pdb
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.AssemblyInfoInputs.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.AssemblyInfo.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.csproj.CoreCompileInputs.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorAssemblyInfo.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorAssemblyInfo.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.TagHelpers.input.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.TagHelpers.output.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorCoreGenerate.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Create.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Delete.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Details.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Edit.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistersEmployee\Index.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Create.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Delete.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Details.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Edit.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\Tasks\Index.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorTargetAssemblyInfo.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.RazorTargetAssemblyInfo.cs
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.Views.pdb
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.dll
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.pdb
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.genruntimeconfig.cache
+D:\New folder\MyWork\MyWork\ApiApplication\SystemMVC28062021\SystemMVC\SystemMVC\obj\Debug\netcoreapp2.1\SystemMVC.csproj.CopyComplete

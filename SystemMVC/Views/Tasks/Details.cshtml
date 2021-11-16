@@ -1,0 +1,48 @@
+﻿@model SystemMVC.Models.Tasks
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Tasks</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DeveloperName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DeveloperName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ModuleName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ModuleName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ImplentionName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ImplentionName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TasKDesciption)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TasKDesciption)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
